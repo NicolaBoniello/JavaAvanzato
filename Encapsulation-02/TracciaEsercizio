@@ -1,0 +1,12 @@
+
+
+1) achieve encapsulation using Lombok for a class Person that has the following attributes:
+- name
+- surname
+- height (a double)
+- age
+
+2) ask the user to input the values
+
+3) then print all the details of the Person
+- when printing the height, use just 2 decimal places (e.g. the result could be 5.50)
